@@ -1,0 +1,47 @@
+손글씨 칸 인식에 쓰는 외부 구성요소 (모두 이 앱과 같은 출처에서 제공, 외부 전송 없음)
+
+1) PP-OCRv5 korean_PP-OCRv5_mobile_rec (PaddleOCR, PaddlePaddle Authors)
+   - 라이선스: Apache License 2.0 (전문: ocr/ko-rec/LICENSE-Apache-2.0.txt)
+   - 원본: https://github.com/PaddlePaddle/PaddleOCR
+   - ONNX 변환본: https://huggingface.co/monkt/paddleocr-onnx (revision 7b02d0a30a07ba2b92ad1ff5a8941ae2c633de65, Apache-2.0)
+   - 변경 사항 없음 (파일 그대로 사용)
+
+2) ONNX Runtime Web 1.20.1 (Microsoft)
+   - 라이선스: MIT
+
+MIT License
+
+Copyright (c) Microsoft Corporation
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+3) Tesseract.js 6 / tesseract.js-core (Apache-2.0), 한국어 학습 데이터 kor 4.0.0_best_int (Apache-2.0)
+   - 인쇄 문구로 서식 종류를 찾을 때와, 영역 인식을 지원하지 않는 서식의 전체 인식에 사용
+
+4) trocr-small-korean (team-lucid) — 긴 글 칸 '손글씨 다시 인식' (사용자가 단추를 누를 때만 불러옴)
+   - 라이선스: Apache License 2.0 (모델 카드 표기, 전문: ocr/ko-rec/LICENSE-Apache-2.0.txt 와 같음)
+   - 원본: https://huggingface.co/team-lucid/trocr-small-korean (revision 33e0a37bee9b4715f974804a95e7e53323fbe4b7)
+   - 학습: SynthTIGER 로 만든 합성 이미지 약 600만 장 (모델 카드). 인코더는 DeiT, 디코더는 개발자가 사전학습한 RoBERTa 로 시작
+     ※ 합성에 쓴 글꼴·말뭉치는 모델 카드에 밝혀져 있지 않음 — 상업 배포 전 개발사 확인 권장
+   - 변경 사항: ONNX 로 변환 후 INT8 양자화 (experiments/trocr/export_onnx.py). 파일 SHA-256 은 scripts/prepare-trocr.mjs 에 고정
+   - 이 기기의 브라우저(웹 워커) 안에서만 실행, 사진·글자를 밖으로 보내지 않음
+
+5) Transformers.js 3.0.2 (Hugging Face) — 위 모델 실행
+   - 라이선스: Apache License 2.0
+   - 함께 쓰는 ONNX Runtime Web (Transformers.js 포함본, MIT — 위 2)의 고지와 같음)

@@ -1,0 +1,706 @@
+{
+ "cover-life": {
+  "file": "cover-life.svg",
+  "w": 419.6,
+  "h": 595.3,
+  "bytes": 181905
+ },
+ "cover-mind": {
+  "file": "cover-mind.svg",
+  "w": 419.6,
+  "h": 595.3,
+  "bytes": 192965
+ },
+ "teacher-enfj": {
+  "file": "char-teacher-enfj.svg",
+  "w": 63.8,
+  "h": 197.2,
+  "bytes": 11792
+ },
+ "teacher-infp": {
+  "file": "char-teacher-infp.svg",
+  "w": 77.8,
+  "h": 190.3,
+  "bytes": 11376
+ },
+ "toc-life-desk": {
+  "file": "toc-life-desk.svg",
+  "w": 137.3,
+  "h": 109.6,
+  "bytes": 28243
+ },
+ "toc-life-pencil": {
+  "file": "toc-life-pencil.svg",
+  "w": 40.3,
+  "h": 289.9,
+  "bytes": 4949
+ },
+ "toc-mind-desk": {
+  "file": "toc-mind-desk.svg",
+  "w": 137.3,
+  "h": 109.6,
+  "bytes": 28365
+ },
+ "toc-mind-pencil": {
+  "file": "toc-mind-pencil.svg",
+  "w": 40.3,
+  "h": 289.9,
+  "bytes": 4851
+ },
+ "star": {
+  "file": "icon-star.svg",
+  "w": 13.4,
+  "h": 13.4,
+  "bytes": 401
+ },
+ "moon": {
+  "file": "icon-moon.svg",
+  "w": 14.0,
+  "h": 14.7,
+  "bytes": 570
+ },
+ "face0": {
+  "file": "face-1.svg",
+  "w": 14.3,
+  "h": 14.3,
+  "bytes": 1277
+ },
+ "face1": {
+  "file": "face-2.svg",
+  "w": 14.3,
+  "h": 14.3,
+  "bytes": 1271
+ },
+ "face2": {
+  "file": "face-3.svg",
+  "w": 14.3,
+  "h": 14.3,
+  "bytes": 1088
+ },
+ "face3": {
+  "file": "face-4.svg",
+  "w": 14.3,
+  "h": 14.3,
+  "bytes": 1425
+ },
+ "face4": {
+  "file": "face-5.svg",
+  "w": 14.3,
+  "h": 14.3,
+  "bytes": 1535
+ },
+ "note-frame": {
+  "file": "note-frame.svg",
+  "w": 355.8,
+  "h": 179.5,
+  "bytes": 20907
+ },
+ "healing-pencil": {
+  "file": "healing-pencil.svg",
+  "w": 29.5,
+  "h": 191.1,
+  "bytes": 2618
+ },
+ "daily": {
+  "100": {
+   "file": "daily/daily-100.svg",
+   "w": 67.3,
+   "h": 141.6,
+   "bytes": 12524
+  },
+  "99": {
+   "file": "daily/daily-099.svg",
+   "w": 116.8,
+   "h": 149.3,
+   "bytes": 13280
+  },
+  "98": {
+   "file": "daily/daily-098.svg",
+   "w": 138.7,
+   "h": 140.3,
+   "bytes": 26752
+  },
+  "97": {
+   "file": "daily/daily-097.svg",
+   "w": 192.1,
+   "h": 147.7,
+   "bytes": 56946
+  },
+  "96": {
+   "file": "daily/daily-096.svg",
+   "w": 94.0,
+   "h": 138.2,
+   "bytes": 14263
+  },
+  "95": {
+   "file": "daily/daily-095.svg",
+   "w": 169.1,
+   "h": 143.8,
+   "bytes": 18322
+  },
+  "94": {
+   "file": "daily/daily-094.svg",
+   "w": 170.9,
+   "h": 145.4,
+   "bytes": 24847
+  },
+  "93": {
+   "file": "daily/daily-093.svg",
+   "w": 161.8,
+   "h": 134.0,
+   "bytes": 23884
+  },
+  "92": {
+   "file": "daily/daily-092.svg",
+   "w": 112.2,
+   "h": 141.3,
+   "bytes": 16031
+  },
+  "91": {
+   "file": "daily/daily-091.svg",
+   "w": 139.1,
+   "h": 141.0,
+   "bytes": 50609
+  },
+  "90": {
+   "file": "daily/daily-090.svg",
+   "w": 146.7,
+   "h": 149.8,
+   "bytes": 27510
+  },
+  "89": {
+   "file": "daily/daily-089.svg",
+   "w": 136.5,
+   "h": 153.0,
+   "bytes": 15514
+  },
+  "88": {
+   "file": "daily/daily-088.svg",
+   "w": 85.2,
+   "h": 147.4,
+   "bytes": 13721
+  },
+  "87": {
+   "file": "daily/daily-087.svg",
+   "w": 82.9,
+   "h": 147.6,
+   "bytes": 12803
+  },
+  "86": {
+   "file": "daily/daily-086.svg",
+   "w": 194.4,
+   "h": 160.2,
+   "bytes": 33508
+  },
+  "85": {
+   "file": "daily/daily-085.svg",
+   "w": 190.8,
+   "h": 143.1,
+   "bytes": 21931
+  },
+  "84": {
+   "file": "daily/daily-084.svg",
+   "w": 173.1,
+   "h": 153.1,
+   "bytes": 39054
+  },
+  "83": {
+   "file": "daily/daily-083.svg",
+   "w": 145.9,
+   "h": 145.9,
+   "bytes": 22690
+  },
+  "82": {
+   "file": "daily/daily-082.svg",
+   "w": 124.3,
+   "h": 159.8,
+   "bytes": 21323
+  },
+  "81": {
+   "file": "daily/daily-081.svg",
+   "w": 71.0,
+   "h": 149.3,
+   "bytes": 12457
+  },
+  "80": {
+   "file": "daily/daily-080.svg",
+   "w": 125.8,
+   "h": 150.8,
+   "bytes": 32917
+  },
+  "79": {
+   "file": "daily/daily-079.svg",
+   "w": 142.9,
+   "h": 149.5,
+   "bytes": 24323
+  },
+  "78": {
+   "file": "daily/daily-078.svg",
+   "w": 171.2,
+   "h": 156.9,
+   "bytes": 31675
+  },
+  "77": {
+   "file": "daily/daily-077.svg",
+   "w": 165.9,
+   "h": 138.8,
+   "bytes": 34962
+  },
+  "76": {
+   "file": "daily/daily-076.svg",
+   "w": 174.9,
+   "h": 154.4,
+   "bytes": 68660
+  },
+  "75": {
+   "file": "daily/daily-075.svg",
+   "w": 147.3,
+   "h": 140.4,
+   "bytes": 18099
+  },
+  "74": {
+   "file": "daily/daily-074.svg",
+   "w": 162.4,
+   "h": 132.7,
+   "bytes": 33551
+  },
+  "73": {
+   "file": "daily/daily-073.svg",
+   "w": 123.6,
+   "h": 137.5,
+   "bytes": 20812
+  },
+  "72": {
+   "file": "daily/daily-072.svg",
+   "w": 109.0,
+   "h": 133.7,
+   "bytes": 8716
+  },
+  "71": {
+   "file": "daily/daily-071.svg",
+   "w": 74.5,
+   "h": 150.2,
+   "bytes": 19930
+  },
+  "70": {
+   "file": "daily/daily-070.svg",
+   "w": 138.8,
+   "h": 135.1,
+   "bytes": 94526
+  },
+  "69": {
+   "file": "daily/daily-069.svg",
+   "w": 130.7,
+   "h": 145.4,
+   "bytes": 20382
+  },
+  "68": {
+   "file": "daily/daily-068.svg",
+   "w": 174.7,
+   "h": 134.1,
+   "bytes": 20211
+  },
+  "67": {
+   "file": "daily/daily-067.svg",
+   "w": 79.0,
+   "h": 134.1,
+   "bytes": 14909
+  },
+  "66": {
+   "file": "daily/daily-066.svg",
+   "w": 123.3,
+   "h": 145.7,
+   "bytes": 28590
+  },
+  "65": {
+   "file": "daily/daily-065.svg",
+   "w": 221.4,
+   "h": 137.5,
+   "bytes": 35366
+  },
+  "64": {
+   "file": "daily/daily-064.svg",
+   "w": 184.0,
+   "h": 135.8,
+   "bytes": 22714
+  },
+  "63": {
+   "file": "daily/daily-063.svg",
+   "w": 150.2,
+   "h": 152.6,
+   "bytes": 35594
+  },
+  "62": {
+   "file": "daily/daily-062.svg",
+   "w": 151.9,
+   "h": 140.5,
+   "bytes": 25809
+  },
+  "61": {
+   "file": "daily/daily-061.svg",
+   "w": 171.0,
+   "h": 136.9,
+   "bytes": 23805
+  },
+  "60": {
+   "file": "daily/daily-060.svg",
+   "w": 195.8,
+   "h": 146.8,
+   "bytes": 24127
+  },
+  "59": {
+   "file": "daily/daily-059.svg",
+   "w": 118.6,
+   "h": 146.3,
+   "bytes": 40224
+  },
+  "58": {
+   "file": "daily/daily-058.svg",
+   "w": 167.1,
+   "h": 144.8,
+   "bytes": 31157
+  },
+  "57": {
+   "file": "daily/daily-057.svg",
+   "w": 194.1,
+   "h": 126.0,
+   "bytes": 21631
+  },
+  "56": {
+   "file": "daily/daily-056.svg",
+   "w": 210.0,
+   "h": 130.8,
+   "bytes": 30236
+  },
+  "55": {
+   "file": "daily/daily-055.svg",
+   "w": 136.3,
+   "h": 130.7,
+   "bytes": 31640
+  },
+  "54": {
+   "file": "daily/daily-054.svg",
+   "w": 156.9,
+   "h": 146.2,
+   "bytes": 105265
+  },
+  "53": {
+   "file": "daily/daily-053.svg",
+   "w": 195.6,
+   "h": 127.9,
+   "bytes": 40742
+  },
+  "52": {
+   "file": "daily/daily-052.svg",
+   "w": 157.6,
+   "h": 145.6,
+   "bytes": 23098
+  },
+  "51": {
+   "file": "daily/daily-051.svg",
+   "w": 146.1,
+   "h": 150.4,
+   "bytes": 17603
+  },
+  "50": {
+   "file": "daily/daily-050.svg",
+   "w": 154.1,
+   "h": 138.4,
+   "bytes": 74688
+  },
+  "49": {
+   "file": "daily/daily-049.svg",
+   "w": 165.5,
+   "h": 138.4,
+   "bytes": 27195
+  },
+  "48": {
+   "file": "daily/daily-048.svg",
+   "w": 191.1,
+   "h": 140.6,
+   "bytes": 19986
+  },
+  "47": {
+   "file": "daily/daily-047.svg",
+   "w": 159.7,
+   "h": 136.6,
+   "bytes": 19993
+  },
+  "46": {
+   "file": "daily/daily-046.svg",
+   "w": 186.5,
+   "h": 137.4,
+   "bytes": 25212
+  },
+  "45": {
+   "file": "daily/daily-045.svg",
+   "w": 160.6,
+   "h": 151.9,
+   "bytes": 18150
+  },
+  "44": {
+   "file": "daily/daily-044.svg",
+   "w": 144.6,
+   "h": 141.2,
+   "bytes": 13010
+  },
+  "43": {
+   "file": "daily/daily-043.svg",
+   "w": 180.5,
+   "h": 141.0,
+   "bytes": 18214
+  },
+  "42": {
+   "file": "daily/daily-042.svg",
+   "w": 126.9,
+   "h": 140.6,
+   "bytes": 18315
+  },
+  "41": {
+   "file": "daily/daily-041.svg",
+   "w": 165.6,
+   "h": 141.4,
+   "bytes": 22176
+  },
+  "40": {
+   "file": "daily/daily-040.svg",
+   "w": 131.7,
+   "h": 130.4,
+   "bytes": 27290
+  },
+  "39": {
+   "file": "daily/daily-039.svg",
+   "w": 226.7,
+   "h": 157.7,
+   "bytes": 29113
+  },
+  "38": {
+   "file": "daily/daily-038.svg",
+   "w": 137.5,
+   "h": 145.0,
+   "bytes": 32182
+  },
+  "37": {
+   "file": "daily/daily-037.svg",
+   "w": 154.9,
+   "h": 131.1,
+   "bytes": 29487
+  },
+  "36": {
+   "file": "daily/daily-036.svg",
+   "w": 181.1,
+   "h": 143.3,
+   "bytes": 34164
+  },
+  "35": {
+   "file": "daily/daily-035.svg",
+   "w": 184.7,
+   "h": 130.6,
+   "bytes": 27289
+  },
+  "34": {
+   "file": "daily/daily-034.svg",
+   "w": 151.2,
+   "h": 129.7,
+   "bytes": 31833
+  },
+  "33": {
+   "file": "daily/daily-033.svg",
+   "w": 167.9,
+   "h": 130.5,
+   "bytes": 26727
+  },
+  "32": {
+   "file": "daily/daily-032.svg",
+   "w": 201.8,
+   "h": 130.7,
+   "bytes": 21417
+  },
+  "31": {
+   "file": "daily/daily-031.svg",
+   "w": 166.0,
+   "h": 123.0,
+   "bytes": 26826
+  },
+  "30": {
+   "file": "daily/daily-030.svg",
+   "w": 147.1,
+   "h": 149.3,
+   "bytes": 19811
+  },
+  "29": {
+   "file": "daily/daily-029.svg",
+   "w": 146.7,
+   "h": 148.2,
+   "bytes": 23628
+  },
+  "28": {
+   "file": "daily/daily-028.svg",
+   "w": 137.2,
+   "h": 139.1,
+   "bytes": 15202
+  },
+  "27": {
+   "file": "daily/daily-027.svg",
+   "w": 168.2,
+   "h": 131.6,
+   "bytes": 22123
+  },
+  "26": {
+   "file": "daily/daily-026.svg",
+   "w": 165.9,
+   "h": 152.3,
+   "bytes": 19386
+  },
+  "25": {
+   "file": "daily/daily-025.svg",
+   "w": 181.1,
+   "h": 125.0,
+   "bytes": 25073
+  },
+  "24": {
+   "file": "daily/daily-024.svg",
+   "w": 215.5,
+   "h": 143.2,
+   "bytes": 26353
+  },
+  "23": {
+   "file": "daily/daily-023.svg",
+   "w": 214.0,
+   "h": 121.7,
+   "bytes": 23775
+  },
+  "22": {
+   "file": "daily/daily-022.svg",
+   "w": 147.8,
+   "h": 147.6,
+   "bytes": 22000
+  },
+  "21": {
+   "file": "daily/daily-021.svg",
+   "w": 103.8,
+   "h": 150.7,
+   "bytes": 14559
+  },
+  "20": {
+   "file": "daily/daily-020.svg",
+   "w": 163.4,
+   "h": 134.5,
+   "bytes": 31696
+  },
+  "19": {
+   "file": "daily/daily-019.svg",
+   "w": 219.4,
+   "h": 122.1,
+   "bytes": 68764
+  },
+  "18": {
+   "file": "daily/daily-018.svg",
+   "w": 168.1,
+   "h": 127.6,
+   "bytes": 25176
+  },
+  "17": {
+   "file": "daily/daily-017.svg",
+   "w": 192.2,
+   "h": 123.5,
+   "bytes": 28901
+  },
+  "16": {
+   "file": "daily/daily-016.svg",
+   "w": 130.3,
+   "h": 123.6,
+   "bytes": 23636
+  },
+  "15": {
+   "file": "daily/daily-015.svg",
+   "w": 125.8,
+   "h": 147.9,
+   "bytes": 25299
+  },
+  "14": {
+   "file": "daily/daily-014.svg",
+   "w": 195.0,
+   "h": 99.7,
+   "bytes": 37051
+  },
+  "13": {
+   "file": "daily/daily-013.svg",
+   "w": 157.2,
+   "h": 131.3,
+   "bytes": 37015
+  },
+  "12": {
+   "file": "daily/daily-012.svg",
+   "w": 226.5,
+   "h": 114.1,
+   "bytes": 53348
+  },
+  "11": {
+   "file": "daily/daily-011.svg",
+   "w": 183.5,
+   "h": 105.3,
+   "bytes": 39383
+  },
+  "10": {
+   "file": "daily/daily-010.svg",
+   "w": 128.6,
+   "h": 115.6,
+   "bytes": 15962
+  },
+  "9": {
+   "file": "daily/daily-009.svg",
+   "w": 167.4,
+   "h": 123.1,
+   "bytes": 17006
+  },
+  "8": {
+   "file": "daily/daily-008.svg",
+   "w": 184.6,
+   "h": 134.0,
+   "bytes": 25127
+  },
+  "7": {
+   "file": "daily/daily-007.svg",
+   "w": 109.2,
+   "h": 123.8,
+   "bytes": 13544
+  },
+  "6": {
+   "file": "daily/daily-006.svg",
+   "w": 128.8,
+   "h": 117.9,
+   "bytes": 28258
+  },
+  "5": {
+   "file": "daily/daily-005.svg",
+   "w": 126.3,
+   "h": 123.4,
+   "bytes": 22865
+  },
+  "4": {
+   "file": "daily/daily-004.svg",
+   "w": 104.6,
+   "h": 133.0,
+   "bytes": 24637
+  },
+  "3": {
+   "file": "daily/daily-003.svg",
+   "w": 190.8,
+   "h": 110.0,
+   "bytes": 18551
+  },
+  "2": {
+   "file": "daily/daily-002.svg",
+   "w": 142.9,
+   "h": 111.7,
+   "bytes": 22708
+  },
+  "1": {
+   "file": "daily/daily-001.svg",
+   "w": 156.7,
+   "h": 124.5,
+   "bytes": 20697
+  }
+ }
+}
